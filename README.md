@@ -6,3 +6,5 @@
   - configurar o ambiente de desenvolvimento
   - importar recursos essenciais;
 - Instalar e usar a ferramenta parcel.
+
+Utilizaremos o AOS para a animação (https://michalsnik.github.io/aos/)
